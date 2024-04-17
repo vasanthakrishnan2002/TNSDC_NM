@@ -37,7 +37,7 @@ The solution involves implementing a deep learning model, specifically a feedfor
 1. **Clone the Repository**: 
    - Clone this repository to your local machine:
      ```
-     git clone https://github.com/srinath2003/tnsdc-genAI
+     git clone https://github.com/vasanthakrishnan2002/TNSDC_NM
      ```
 2. **Install Dependencies**: 
    - Install the necessary Python packages listed in requirements.txt.
@@ -48,5 +48,5 @@ The solution involves implementing a deep learning model, specifically a feedfor
    - Experiment with different configurations and parameters to optimize the model.
 
 ## Contributors
-- Srinath R
+- Vasantha Krishnan R
 
